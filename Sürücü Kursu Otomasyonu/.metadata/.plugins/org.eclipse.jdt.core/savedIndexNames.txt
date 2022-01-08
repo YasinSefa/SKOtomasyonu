@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\yasin\eclipse-workspace\Sürücü Kursu Otomasyonu\.metadata\.plugins\org.eclipse.jdt.core
+1238311484.index
+1460714948.index
+3776000407.index
+1865797976.index
